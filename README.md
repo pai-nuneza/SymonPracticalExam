@@ -1,4 +1,10 @@
 # Symon Practical Exam
+This web app is .NET Core 3.1. 
+
+You can use any CSS style framework but prefer to use bootstrap.
+
+You can create this with WebAPI and any frontend frameworks you like Angular/React or Plain MVC.
+
 
 ## Story
 An Client from Fremantle Australia wants to have a web application that manages employees and project assignments.
@@ -33,11 +39,7 @@ But the client wants to prioritize the core feature of the web application.
 
 
 ## Instructions: 
-This web app is .NET Core 3.1. 
 
-You can use any CSS style framework but prefer to use bootstrap.
-
-You can create this with WebAPI and any frontend frameworks you like Angular/React or Plain MVC.
 
 - Clone this project repo and work in your local environment
 - Create a feature branch with a name 'feature/Fremantle-AU
