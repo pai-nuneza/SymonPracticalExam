@@ -39,4 +39,4 @@ But he wants to prioritize the core feature of the web application.
 	ProjectId
 	ProjectTitle
 
-##Note: You might need another table for this
+## Note: You might need another table for this
