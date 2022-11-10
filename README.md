@@ -7,7 +7,7 @@ You can create this with WebAPI and any frontend frameworks that you want like A
 
 
 ## User Story
-An Client from Fremantle Australia wants to have a web application that manages employees and project assignments.
+A Client from Fremantle Australia wants to have a web app that manages employees and project assignments.
 
 Client wants to do create, update and deactivate employee.
 
