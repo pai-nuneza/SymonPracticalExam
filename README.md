@@ -6,7 +6,7 @@ You can use any CSS style framework but prefer to use bootstrap.
 You can create this with WebAPI and any frontend frameworks that you want like Angular/React or just Plain MVC.
 
 
-## Story
+## User Story
 An Client from Fremantle Australia wants to have a web application that manages employees and project assignments.
 
 Client wants to do create, update and deactivate employee.
