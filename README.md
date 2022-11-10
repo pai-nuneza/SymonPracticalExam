@@ -45,6 +45,5 @@ But he wants to prioritize the core feature of the web application.
 	ProjectDescription
 
 #### Note: You might need another table for this
-
-
+You can use any database but I suggests that you use MSSQL.
 
