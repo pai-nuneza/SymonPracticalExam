@@ -1,4 +1,4 @@
-# SymonPracticalExam
+# Symon Practical Exam
 
 ## Story
 An Client from Fremantle Australia wants to have a web application that manages employees and project assignments:
