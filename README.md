@@ -1,7 +1,7 @@
 # Symon Practical Exam
 
 ## Story
-An Client from Fremantle Australia wants to have a web application that manages employees and project assignments:
+An Client from Fremantle Australia wants to have a web application that manages employees and project assignments.
 Client wants to do create, update and delete employee.
 Client also wants to have role for user login and only admin role can update and delete a record.
 But he wants to prioritize the core feature of the web application.
