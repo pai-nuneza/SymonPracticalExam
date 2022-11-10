@@ -57,4 +57,4 @@ You can create this with WebAPI and any frontend frameworks you like Angular/Rea
 	ProjectTitle
 	ProjectDescription
 
-#### Hint: You might need another table for this
+#### Note: You might need another table for this
