@@ -13,7 +13,8 @@ But he wants to prioritize the core feature of the web application.
 ## Requirements:
 	Login/Logout Feature
 	Role Authorization
-	Crud Operations
+	Employee Management (Crud Operations)
+	Project Management (Crud Operations)
 
 ## Core feature
 ### Employee Management Page:
