@@ -1,8 +1,6 @@
 # Symon Practical Exam
 This web app is .NET Core 3.1. 
-
 You can use any CSS style framework but prefer to use bootstrap.
-
 You can create this with WebAPI and any frontend frameworks you like Angular/React or Plain MVC.
 
 
@@ -39,10 +37,8 @@ But the client wants to prioritize the core feature of the web application.
 
 
 ## Instructions: 
-
-
 - Clone this project repo and work in your local environment
-- Create a feature branch with a name 'feature/Fremantle-AU
+- Create a feature branch with a name '**feature/Fremantle-AU**'
 - Once you're done, create a Pull Request to Main
 - You can use any database but I suggests that you use MSSQL.
 
@@ -59,4 +55,4 @@ But the client wants to prioritize the core feature of the web application.
 	ProjectTitle
 	ProjectDescription
 
-#### Note: You might need another table for this
+#### _Note: You might need another table for this_
