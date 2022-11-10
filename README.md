@@ -33,10 +33,17 @@ But he wants to prioritize the core feature of the web application.
 ### Employee table:
 	FirstName
 	LastName
+	EmailAddress
+	ContactNo
+	PresentAddress
 	JobTitle
 
 ### Project table:
 	ProjectId
 	ProjectTitle
+	ProjectDescription
 
 #### Note: You might need another table for this
+
+
+
