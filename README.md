@@ -30,11 +30,13 @@ But he wants to prioritize the core feature of the web application.
 - Can View Project Detail with list employee working on it
 
 
-### Employee object:
+### Employee table:
 	FirstName
 	LastName
 	JobTitle
 
-### Project object properties:
+### Project table:
 	ProjectId
 	ProjectTitle
+
+##Note: You might need another table for this
