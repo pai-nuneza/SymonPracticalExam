@@ -54,4 +54,4 @@ You can create with WebAPI and any frontend frameworks like Angular/React or Pla
 	ProjectTitle
 	ProjectDescription
 
-#### Note: You might need another table for this
+#### Hint: You might need another table for this
