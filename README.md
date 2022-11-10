@@ -44,6 +44,15 @@ But the client wants to prioritize the core feature of the web application.
 	ProjectTitle
 	ProjectDescription
 
+
+## Instructions: 
+This web app is .NET Core 3.1. You can use any css style framework but prefer to use bootstrap.
+You can create this via API or MVC
+
+- Clone this project and work in your local environment
+- Create a feature branch with a name 'feature/Fremantle-AU
+- Once you're done, create a Pull Request to Main
+
 #### Note: You might need another table for this
 You can use any database but I suggests that you use MSSQL.
 
