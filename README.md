@@ -1,6 +1,8 @@
 # Symon Practical Exam
 This web app is .NET Core 3.1. 
+
 You can use any CSS style framework but prefer to use bootstrap.
+
 You can create this with WebAPI and any frontend frameworks you like Angular/React or Plain MVC.
 
 
