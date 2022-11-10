@@ -7,7 +7,7 @@ Client wants to do create, update and deactivate employee.
 
 Client also wants to have role for user login and only admin role can update and deactivate a record.
 
-But he wants to prioritize the core feature of the web application.
+But the client wants to prioritize the core feature of the web application.
 
 
 ## Requirements:
