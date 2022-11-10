@@ -19,17 +19,16 @@ But he wants to prioritize the core feature of the web application.
 ## Core feature
 ### Employee Management Page:
 - Display list of employees
-- Can Add New Employee and assign project
-- Can Update Employee and project assignment (Admin only)
-- Can Delete Employee (Admin only)
+- Can create new employee and assign project
+- Can update employee and project assignment (Admin only)
+- Can deactivate Employee (Admin only)
 
 ### Project Management Page:
 - Display list of projects
-- Can Add Project
-- Can Update Project
-- Can Delete Project
+- Can create Project
+- Can update Project
+- Can deactivate Project
 - Can View Project Detail with list employee working on it
-
 
 
 ### Employee table:
