@@ -31,6 +31,16 @@ But the client wants to prioritize the core feature of the web application.
 - Can View Project Detail with list employee working on it
 
 
+
+## Instructions: 
+This web app is .NET Core 3.1. You can use any CSS style framework but prefer to use bootstrap.
+You can create with WebAPI and any frontend frameworks like Angular/React or Plain MVC.
+
+- Clone this project and work in your local environment
+- Create a feature branch with a name 'feature/Fremantle-AU
+- Once you're done, create a Pull Request to Main
+- You can use any database but I suggests that you use MSSQL.
+
 ### Employee table:
 	FirstName
 	LastName
@@ -44,15 +54,4 @@ But the client wants to prioritize the core feature of the web application.
 	ProjectTitle
 	ProjectDescription
 
-
-## Instructions: 
-This web app is .NET Core 3.1. You can use any css style framework but prefer to use bootstrap.
-You can create this via API or MVC
-
-- Clone this project and work in your local environment
-- Create a feature branch with a name 'feature/Fremantle-AU
-- Once you're done, create a Pull Request to Main
-
 #### Note: You might need another table for this
-You can use any database but I suggests that you use MSSQL.
-
