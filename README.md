@@ -27,7 +27,7 @@ But he wants to prioritize the core feature of the web application.
 - Can Add Project
 - Can Update Project
 - Can Delete Project
-- Can View Project Detail with assigned employees
+- Can View Project Detail with list employee working on it
 
 
 ### Employee object:
