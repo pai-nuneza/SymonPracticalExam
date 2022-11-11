@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SymonPracticalExam",
+    "\\SymonPracticalExam\\bin",
+    "\\SymonPracticalExam\\Controllers",
+    "\\SymonPracticalExam\\Models",
+    "\\SymonPracticalExam\\Properties",
+    "\\SymonPracticalExam\\Views",
+    "\\SymonPracticalExam\\Views\\Home",
+    "\\SymonPracticalExam\\Views\\Shared",
+    "\\SymonPracticalExam\\wwwroot\\lib",
+    "\\SymonPracticalExam\\wwwroot\\lib\\bootstrap",
+    "\\SymonPracticalExam\\wwwroot\\lib\\bootstrap\\dist"
+  ],
+  "SelectedNode": "\\SymonPracticalExam",
+  "PreviewInSolutionExplorer": false
+}

@@ -23,7 +23,37 @@ namespace SymonPracticalExam.Controllers
             return View();
         }
 
+        public IActionResult Employee()
+        {
+            return View();
+        }
+
+        public IActionResult EmployeeForm()
+        {
+            return View();
+        }
+
+        public IActionResult Projects()
+        {
+            return View();
+        }
+
+        public IActionResult ProjectsForm()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult Login()
+        { 
+            return View();
+        }
+
+        public IActionResult Logout()
         {
             return View();
         }
